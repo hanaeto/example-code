@@ -14,3 +14,11 @@ console.log( '' );
 // DESC 해결 방법
 console.log( ( new RegExp( regex ) ).test( testValue1 ) );
 console.log( ( new RegExp( regex ) ).test( testValue2 ) );
+
+/*
+true
+false
+
+true
+true
+*/
